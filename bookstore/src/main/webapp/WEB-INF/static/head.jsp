@@ -1,0 +1,7 @@
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8" isELIgnored="false"%>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>网上书店</title>
+<link type="text/css" rel="stylesheet" href="css/style.css"/>
+<script type="text/javascript" src="scripts/function.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.validate-1.13.1.js"></script>

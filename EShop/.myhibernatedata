@@ -1,0 +1,22 @@
+#
+#Mon Sep 10 22:27:23 CST 2007
+genBasicCompId=false
+sessionFactoryName=com.ORM.MySessionFactory
+profile=
+daoSFId=
+version=3.0
+jndiPath=
+detectM2M=false
+reStrategyClass=
+springDaoFile=
+useJavaTypes=true
+keyGenerator=identity
+libInstallFolder=/WebRoot/WEB-INF/lib
+addLibs2Project=true
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+reSettingsFile=
+configFile=/EShop/src/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=true
